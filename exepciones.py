@@ -1,5 +1,5 @@
 #Error para datos inválidos del cliente e ingresa información 
-que no es correcta o está incompleta
+#que no es correcta o está incompleta
 class ClienteInvalidoError(Exception):
     pass
 
